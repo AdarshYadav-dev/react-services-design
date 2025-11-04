@@ -2,7 +2,7 @@
 
 A modern and responsive services section built with **React**, **Vite**, and **Tailwind CSS** — featuring Services, Solutions, Work Showcase, and Testimonials sections.
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - [Vite](https://vitejs.dev/) – A fast build tool for front-end development  
 - [React](https://reactjs.org/) – UI library  
@@ -10,7 +10,7 @@ A modern and responsive services section built with **React**, **Vite**, and **T
 - JavaScript / JSX  
 - CSS (via Tailwind)  
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:  
    ```bash
